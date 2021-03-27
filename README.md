@@ -1,1 +1,3 @@
 # openhab-easee-binding
+
+The idea is to create and publish a binding for OpenHAB3 here, not too much done yet...
